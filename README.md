@@ -90,7 +90,7 @@ Twitter
 * @nan_tic --> Nan-Tic: Catalunian company dedicated to Tryton ERP and other open source solutions.
 * @nicoe --> Nicolas Évrard: Developer at B2CK and one of the main mantainers of Tryton.
 * @meanmicio --> Luis Falcón: Creator of GNU Health. Doctor and computer scientist.
-* @pokoli_srk --> Sergi Almacenas: Developer at Nan-Tic
+* @pokoli_srk --> Sergi Almacellas: Developer at Nan-Tic and Tryton committer
 * @rvnovaes --> Roberto Novaes: Director of Sílex Sistemas. Python developer. Humble creator of this list.
 * @sebastianmarro --> Thymbra Director. Member of GNU Solidario. Board member of Tryton Foundation.
 * @SISalp --> Sisalp: Hosting for Odoo, Tryton and OperERP
